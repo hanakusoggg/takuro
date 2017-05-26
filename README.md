@@ -1,2 +1,3 @@
-# takuro
-Just another respository
+電子情報システム概論
+四則演算が可能なプログラミング
+使用言語はC言語
